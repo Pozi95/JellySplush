@@ -7,7 +7,6 @@ import java.awt.Graphics2D;
 import java.util.Random;
 
 import javax.swing.ImageIcon;
-import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
